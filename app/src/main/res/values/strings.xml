@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">LetsChat!!</string>
+    <string name="wrong_email_format">Wrong email format</string>
+    <string name="password_size">Password must be at least 6 characters</string>
+    <string name="search">Search</string>
+    <string name="about_me">Bio</string>
+    <string name="edit">Edit</string>
+    <string name="friends">Friends</string>
+    <string name="select_profile_picture">Select  picture</string>
+    <string name="take_new_profile_picture">Take new  picture</string>
+    <string name="uploading">Uploading...</string>
+    <string name="type_something_to_let_your_friends_know_you_better">Type something to let your friends know you better</string>
+    <string name="submit">Submit</string>
+    <string name="cancel_request">Cancel request</string>
+    <string name="friend_request_not_sent">Connect</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_incoming_requests">No incoming requests</string>
+    <string name="no_friends_yet">No friends yet</string>
+    <string name="find_friends">Find friends</string>
+    <string name="no_one_to_chat_with_yet_add_more_friend_to_get_going">No chat history yet!! Search friends and get going!!</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="empty_message">Can\'t send empty message</string>
+
+
+    <string name="you">You: %1$s</string>
+    <string name="other">%1$s: %2$s</string>
+    <string name="other_image">%1$s sent an image</string>
+    <string name="other_file">%1$s sent a file</string>
+    <string name="no_users_to_add_yet">No users to add yet.</string>
+    <string name="you_sent_image">You sent an image</string>
+    <string name="send_file">Send file</string>
+    <string name="send_picture">Send picture</string>
+    <string name="you_sent_file">you sent a file</string>
+    <string name="you_sent_record">you sent a voice record</string>
+    <string name="other_record">%1$s sent a voice record</string>
+    <string name="delete_from_friends">Remove from friends</string>
+    <string name="no_friends">User has no friends yet</string>
+    <string name="create_group">Create Group</string>
+    <string name="join_group_using_key">Join Group using Key</string>
+
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by follwing simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+
+</resources>
