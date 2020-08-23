@@ -66,7 +66,7 @@ Awesome! If you would like to contribute with above features or submit a bugfix,
 ```
 MIT License
 
-Copyright (c) 2020 Satyamurti Doddini
+Copyright (c) 2020 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
